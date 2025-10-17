@@ -1,0 +1,2 @@
+# FOREXNEWSBOT
+python bot
